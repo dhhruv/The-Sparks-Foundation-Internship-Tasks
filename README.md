@@ -1,4 +1,4 @@
-# The Sparks Foundation - Graduation Rotational Internship Program
+## The Sparks Foundation - Graduation Rotational Internship Program
 
 This Repository is dedicated to the completion of my Task with video from The Sparks Foundation (Graduate Rotational Internship Program). <br>
 My domain is Data Science and Business Analytics for the May 2021 Batch.
